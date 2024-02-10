@@ -1,0 +1,47 @@
+﻿{
+    "data": {
+        "movieByContentUuid": {
+            "contentId": "47bab8af302e07",
+            "ott": {
+                "nextEpisode": {
+                    "contentId": "4c44b1250a3941a",
+                    "fallback": false,
+                    "episode": {
+                        "contentId": "4c44bf850a3941a",
+                        "number": 4,
+                        "title": {
+                            "localized": "Верный клятве",
+                            "original": "Oathkeeper",
+                            "__typename": "Title"
+                        },
+                        "cover": {
+                            "avatarsUrl": "//avatars.mds.yandex.net/get-ott/1648503/2a000004a5bdffb73",
+                            "fallbackUrl": null,
+                            "Root": null,
+                            "__typename": "Image"
+                        },
+                        "ott": {
+                            "duration": 3170,
+                            "timing": null,
+                            "viewOption": {
+                                "availabilityEndDate": null,
+                                "__typename": "EpisodeViewOption"
+                            },
+                            "__typename": "OttEpisode"
+                        },
+                        "season": {
+                            "contentId": "4591d908bdbcef0b49fb7c",
+                            "number": 4,
+                            "__typename": "Season"
+                        },
+                        "offsetInSeason": 3,
+                        "__typename": "Episode"
+                    },
+                    "__typename": "OttNextEpisode"
+                },
+                "__typename": "Ott_AbstractSeries"
+            },
+            "__typename": "TvSeries"
+        }
+    }
+}

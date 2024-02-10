@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <movieByContentUuid>
+    <contentId>47bab8af302e07</contentId>
+    <ott>
+      <nextEpisode>
+        <contentId>4c44b1250a3941a</contentId>
+        <fallback>False</fallback>
+        <episode>
+          <contentId>4c44bf850a3941a</contentId>
+          <number>4</number>
+          <title>
+            <localized>Верный клятве</localized>
+            <original>Oathkeeper</original>
+            <__typename>Title</__typename>
+          </title>
+          <cover>
+            <avatarsUrl>//avatars.mds.yandex.net/get-ott/1648503/2a000004a5bdffb73</avatarsUrl>
+            <fallbackUrl></fallbackUrl>
+            <Root></Root>
+            <__typename>Image</__typename>
+          </cover>
+          <ott>
+            <duration>3170</duration>
+            <timing></timing>
+            <viewOption>
+              <availabilityEndDate></availabilityEndDate>
+              <__typename>EpisodeViewOption</__typename>
+            </viewOption>
+            <__typename>OttEpisode</__typename>
+          </ott>
+          <season>
+            <contentId>4591d908bdbcef0b49fb7c</contentId>
+            <number>4</number>
+            <__typename>Season</__typename>
+          </season>
+          <offsetInSeason>3</offsetInSeason>
+          <__typename>Episode</__typename>
+        </episode>
+        <__typename>OttNextEpisode</__typename>
+      </nextEpisode>
+      <__typename>Ott_AbstractSeries</__typename>
+    </ott>
+    <__typename>TvSeries</__typename>
+  </movieByContentUuid>
+</data>
